@@ -1,6 +1,6 @@
 # Project Overview
 
-This project aims to predict Airbnb rental prices in New York City using a comprehensive data analysis strategy and advanced machine learning techniques. We start with an extensive exploratory data analysis (EDA) of a dataset containing 39,202 Airbnb listings, which includes a wide range of features from basic property details to detailed host characteristics and textual descriptions.
+This project aims to predict Airbnb rental prices in New York City using a comprehensive data analysis strategy and advanced machine learning techniques. We start with an extensive exploratory data analysis (EDA) of a dataset containing 39,202 Airbnb listings, which includes a wide range of features from basic property details to detailed host characteristics and textual descriptions. Refer to the full report at Airbnb Price Prediction: Leveraging Sentiment Analysis and NER Enhanced Regression Model.pdf
 
 # Data Preprocessing and Feature Engineering
 
